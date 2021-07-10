@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 Buy me a coffee on Ko-Fi. Every little bit helps to "keep the lights on", so to speak.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D159RC0)
 
-[![Say hi to Rob](mayosolutions-profile-photo.jpg)]
+[![Say hi to Rob](mayosolutions-profile-photo2.jpg)]
